@@ -1,4 +1,4 @@
-# CS696f-Software-Testing-Team-2
+# CS696F-Software-Testing-Team-2
 
 # Xero Project Deliverables
 
